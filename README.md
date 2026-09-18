@@ -24,7 +24,7 @@ Le fichier [`profil_maitre.md`](profil_maitre.md) centralise l'ensemble du parco
 - [x] Analyse des cinq CV historiques
 - [x] Création d'une première version du profil maître
 - [x] Validation principale du parcours, des intitulés et des résultats quantifiés
-- [ ] Complément des dernières dates contractuelles et informations techniques manquantes
+- [x] Traitement des dernières approximations chronologiques et informations techniques structurantes
 - [ ] Création des dossiers de candidature
 - [ ] Génération des CV et lettres adaptés aux offres
 

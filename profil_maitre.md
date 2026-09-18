@@ -17,6 +17,8 @@
 
 ## Positionnement professionnel
 
+**Socle professionnel : innovation, automatisation et science.**
+
 Profil pluridisciplinaire associant :
 
 - mesures physiques, métrologie et contrôle qualité industriel ;
@@ -26,7 +28,7 @@ Profil pluridisciplinaire associant :
 - gestion de projet, amélioration continue, formation et vulgarisation scientifique ;
 - sensibilité aux enjeux climatiques, énergétiques et d'éco-conception.
 
-Fil conducteur observé dans les CV : analyser un problème opérationnel, structurer les données, concevoir un prototype, industrialiser la solution, documenter les procédures et accompagner les utilisateurs.
+Fil directeur : mobiliser la méthode scientifique, l'innovation et l'automatisation pour analyser un problème opérationnel, structurer les données, concevoir un prototype, industrialiser la solution, réduire les tâches répétitives, documenter les procédures et accompagner les utilisateurs.
 
 ## Expériences professionnelles
 
@@ -69,7 +71,7 @@ Les mentions « poste de 2022 à Billère » et « mission PEPs64 de six mois en
 - Configuration ou refonte des zones DNS et DHCP.
 - Mise en place d'une arborescence DFS et d'une ferme RDS.
 - Conception d'outils et d'interfaces PowerShell pour améliorer la visibilité et simplifier l'administration.
-- Dates exactes de début et de fin, intitulé contractuel, environnement technique, taille du parc et réalisations : **À préciser**.
+- Les années et la durée approximative sont suffisantes pour les candidatures ; l'intitulé contractuel, l'environnement technique, la taille du parc et les réalisations pourront être complétés si nécessaire.
 
 ### 2009-2021 - Coaxis-ASP - Data Center / Cloud, Fauguerolles (47)
 
@@ -126,7 +128,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 
 - Découverte et appropriation de la programmation de MMT, à l'intersection de la mécanique, des mathématiques, du développement et du contrôle qualité.
 - Programmation d'une MMT Leitz motorisée avec Quindos 7 (Hexagon).
-- Programmation d'autres MMT plus anciennes, non motorisées, manipulées manuellement, fonctionnant sous « DOS3 » **nom exact du système à confirmer** et dépourvues de scanning.
+- Programmation d'autres MMT beaucoup plus anciennes, non motorisées et manipulées manuellement, fonctionnant sur un poste monochrome sous MS-DOS 3 avec un logiciel métrologique aujourd'hui non identifié ; ces machines ne disposaient pas du scanning.
 - Reprise de programmes de contrôle existants en mode point à point et implémentation de nouvelles versions utilisant le scanning.
 - Mise en œuvre du scanning continu : maintien du capteur au contact de la pièce et acquisition de plusieurs points par seconde.
 - Contrôle d'aubes en Inconel et de bords d'attaque en titane, pour plusieurs modèles et différents moteurs aéronautiques.
@@ -136,7 +138,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 
 - Mission d'environ six mois au sein du service qualité, dans l'équipe chargée de l'étalonnage de l'ensemble du matériel.
 - Étalonnage et suivi de petits instruments comme de matériels complexes, notamment des balances dynamiques.
-- Mois exacts, site, type de contrat, normes et périmètre réglementaire : **À préciser**.
+- Les mois exacts ne sont pas considérés comme déterminants pour présenter cette compétence ; site, type de contrat, normes et périmètre réglementaire pourront être précisés si une offre l'exige.
 
 ### Septembre 2003-juin 2004 - Technicien d'études en alternance - ICMCB-CNRS / secteur aéronautique
 
@@ -176,7 +178,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Pilotage de l'équipe chargée de la version 2, avec une nouvelle interface et une architecture reposant sur un conteneur Docker par VLAN.
 - Déploiement national et dans des pays limitrophes.
 - Ordres de grandeur approximatifs et évolutifs en raison des ajouts et suppressions quotidiennes : environ 900 Raspberry Pi, 4 000 à 5 000 imprimantes/copieurs, 2 000 sites et près de 10 000 utilisateurs.
-- Génération exacte des Raspberry Pi : **À confirmer**.
+- Parc ayant évolué au fil du projet depuis les premiers Raspberry Pi jusqu'aux Raspberry Pi 2, 3 et 4.
 - Dépôt public archivé : [edouard-lopez/open-printing-tunnel](https://github.com/edouard-lopez/open-printing-tunnel).
 
 ### Probe - Plateforme de données environnementales
@@ -316,10 +318,10 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Disponibilité flexible et aptitude déclarée au travail posté en 2x8 dans le CV qualité.
 - Mobilité géographique, télétravail, déplacements et préavis : **À préciser**.
 
-## Points à arbitrer avant toute candidature
+## Règles de rédaction et points à arbitrer avant toute candidature
 
-1. Mois exacts de la mission Sanofi fin 2004, puis dates, lieu et contrat chez JLG.
-2. Dates contractuelles et intitulé officiel du poste unique PEPs64 à Billère en 2022-2023.
+1. Les dates anciennes peuvent rester exprimées par années ou périodes approximatives : leur précision au mois près n'est pas considérée comme déterminante pour démontrer les compétences.
+2. Privilégier dans les CV les responsabilités, réalisations, méthodes et technologies plutôt qu'une fausse précision chronologique.
 3. Présenter les chiffres de RDS.Dragonfly et OPT comme des ordres de grandeur approximatifs, défendables en entretien, et jamais comme des mesures auditées.
 4. Technologies réellement maîtrisées aujourd'hui et niveau par compétence.
 5. Confirmer les détails encore manquants de WhisperEye et les métriques d'usage de Probe.
