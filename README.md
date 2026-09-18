@@ -23,8 +23,9 @@ Le fichier [`profil_maitre.md`](profil_maitre.md) centralise l'ensemble du parco
 
 - [x] Analyse des cinq CV historiques
 - [x] Création d'une première version du profil maître
-- [ ] Validation des dates, intitulés et résultats quantifiés
+- [x] Validation principale du parcours, des intitulés et des résultats quantifiés
+- [ ] Complément des dernières dates contractuelles et informations techniques manquantes
 - [ ] Création des dossiers de candidature
 - [ ] Génération des CV et lettres adaptés aux offres
 
-> Attention : les livrables de candidature contiendront des données personnelles. Le dépôt GitHub devrait rester privé, sauf décision explicite contraire.
+> Ce dépôt est public par décision explicite de son propriétaire et contient des coordonnées personnelles. Aucun nom de client confidentiel ne doit être ajouté aux documents.
