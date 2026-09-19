@@ -12,8 +12,8 @@
 - LinkedIn : `linkedin.com/in/alban-lopez-58bb0a31/` (profil peu renseigné et non maintenu régulièrement)
 - Autres identifiants mentionnés : `@sctfic`, `alban-lopez` **À préciser (plateformes concernées)**
 - Permis B, véhicule personnel
-- Âge indiqué en 2026 : 44 ans **À remplacer idéalement par l'année de naissance ou à omettre des CV**
 - date de naissance : 31/10/1981
+- Âge indiqué en 2026 : 44 ans
 
 ## Positionnement professionnel
 
@@ -28,7 +28,7 @@ Profil pluridisciplinaire associant :
 - gestion de projet, amélioration continue, formation et vulgarisation scientifique ;
 - sensibilité aux enjeux climatiques, énergétiques et d'éco-conception.
 
-Fil directeur : mobiliser la méthode scientifique, l'innovation et l'automatisation pour analyser un problème opérationnel, structurer les données, concevoir un prototype, industrialiser la solution, réduire les tâches répétitives, documenter les procédures et accompagner les utilisateurs.
+Fil directeur : mobiliser la méthode scientifique, l'innovation et l'automatisation pour analyser un problème opérationnel, structurer les données, concevoir un prototype, industrialiser la solution, réduire les tâches répétitives, documenter puis automatiser les procédures et accompagner les utilisateurs.
 
 ## Expériences professionnelles
 
@@ -36,19 +36,19 @@ Fil directeur : mobiliser la méthode scientifique, l'innovation et l'automatisa
 
 Localisation : Lasseube et Béarn.
 
-- Conception et développement de `Probe` (`probe.lpz.ovh`), plateforme de collecte et de visualisation de données environnementales.
+- Conception et développement de `Probe` (`probe.lpz.ovh`), plateforme de collecte, d'analyse et de visualisation de données environnementales, avec intégration en cours d'un module de pilotage d'actionneurs pour la domotique prédictive.
 - Architecture de collecte automatisée et asynchrone : station Davis VP2 et API météorologiques.
 - Stockage de séries temporelles avec InfluxDB.
-- Création de visualisations et tableaux de bord dynamiques avec D3.js et SVG, dont des représentations 3D.
-- Développement d'algorithmes de supervision énergétique et climatique et, selon le CV IoT, de pilotage.
+- Création de visualisations et tableaux de bord dynamiques avec D3.js et SVG, dont des représentations 2D, 3D et 2D à consolidation.
+- Développement d'algorithmes de supervision énergétique et climatique et module IoT de pilotage.
 - Animation et formation sur les enjeux climatiques, énergétiques, la biodiversité et la méthode scientifique.
 - Prestations pour la Fresque du Climat auprès de collégiens, lycéens, étudiants et salariés d'entreprise.
 - Animateur Fresque du Climat, adultes et enfants.
 - Ambassadeur MyCO2 et sensibilisation au calcul d'empreinte carbone.
 - Enseignement de la RSE en école de commerce.
 - Conseil en construction et rénovation.
-- Réalisation de chantiers de rénovation : cuisine, salle de bain et carrelage.
-- L'auto-entreprise sert de cadre à des activités très diverses, sans activité commerciale continue déclarée à ce jour.
+- Réalisation de chantiers de rénovation : cuisine, salle de bain, carrelage et réseau d'eau potable autonome.
+- L'auto-entreprise sert de cadre à des activités très diverses, sans activité commerciale à ce jour.
 - Nom commercial, statut précis des missions, clients, livrables et résultats : **À préciser**.
 
 ### Septembre 2024-juin 2025 - Enseignant RSE - Eklore-ed School of Management
@@ -56,12 +56,22 @@ Localisation : Lasseube et Béarn.
 - Établissement : [Eklore-ed School of Management](https://www.eklore-ed.com/).
 - Enseignement en présentiel de la responsabilité sociétale des entreprises à des promotions de Master 1 et Master 2.
 - Charge d'enseignement : environ 4 à 8 heures par semaine.
-- Public total : environ 140 étudiants, répartis en amphithéâtres d'environ 40 étudiants.
-- Programme détaillé, statut contractuel, méthodes pédagogiques et résultats : **À préciser**.
+- Public : environ 140 étudiants, répartis en amphithéâtres d'environ 40 étudiants.
+- Programme du cours « Éthique et RSE » :
+  - concepts clés de l'éthique, théories éthiques appliquées aux affaires et dilemmes professionnels ;
+  - définition, histoire, piliers, normes et certifications de la RSE ;
+  - gouvernance d'entreprise, codes de bonne conduite et prise de décision éthique ;
+  - théorie, identification et gestion des parties prenantes et des conflits d'intérêts ;
+  - développement durable dans ses dimensions économique, sociale et environnementale, avec étude des neuf limites planétaires ;
+  - innovation éthique, chaîne d'approvisionnement responsable et innovation sociale ;
+  - communication responsable, communication numérique, études de cas et gestion de crise ;
+  - éthique financière, investissement socialement responsable, finance durable, climat, régulation et nouvelles technologies financières.
+- Études de cas consacrées à Patagonia : analyse selon les sept questions centrales de la RSE (gouvernance, droits humains, travail, environnement, loyauté des pratiques, consommateurs et développement local) et mise en perspective avec les neuf limites planétaires.
+- Statut contractuel, méthodes pédagogiques et résultats : **À préciser**.
 
 ### 2022-2023 - DevOps / administrateur systèmes et réseaux - PEPs64, Billère
 
-Les mentions « poste de 2022 à Billère » et « mission PEPs64 de six mois en 2023 » correspondent à un seul poste. L'organisation comptait plus de 900 collaborateurs selon les CV.
+L'organisation compte plus de 900 collaborateurs.
 
 - Administration systèmes et opérations.
 - Gestion d'un parc d'infrastructure et d'Active Directory.
@@ -71,24 +81,23 @@ Les mentions « poste de 2022 à Billère » et « mission PEPs64 de six mois en
 - Configuration ou refonte des zones DNS et DHCP.
 - Mise en place d'une arborescence DFS et d'une ferme RDS.
 - Conception d'outils et d'interfaces PowerShell pour améliorer la visibilité et simplifier l'administration.
-- Les années et la durée approximative sont suffisantes pour les candidatures ; l'intitulé contractuel, l'environnement technique, la taille du parc et les réalisations pourront être complétés si nécessaire.
 
-### 2009-2021 - Coaxis-ASP - Data Center / Cloud, Fauguerolles (47)
+### 2009-2020 - Coaxis-ASP - Data Center / Cloud, Fauguerolles (47)
 
 Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1 jusqu'à une fonction transverse de Scalability Manager.
 
 #### 2009-2011 - Technicien Hotline N1
 
 - Entrée dans l'informatique à la suite d'une reconversion professionnelle.
-- Acquisition rapide des environnements serveurs Windows et Linux, des contraintes de production et de l'infrastructure d'un petit data center.
-- Support technique : prise d'appels, diagnostic et résolution d'incidents réseau, serveurs, périphériques et utilisateurs.
+- Acquisition rapide des environnements serveurs Windows, Linux et réseau, des contraintes de production et de l'infrastructure d'un data center.
+- Support technique à flux tendu : prise d'appels, diagnostic et résolution d'incidents logiciels, réseau, serveurs, périphériques et utilisateurs.
 
 #### 2011-2012 - Chargé de hotline et formateur des nouveaux techniciens
 
-- Prise en charge de la hotline et formation des nouveaux techniciens.
+- Prise en charge de la hotline et formation des nouveaux techniciens N1, avec acquisition d'une vision plus large des contraintes du help desk.
 - Identification des points de friction techniques, des problèmes récurrents au support et des difficultés d'intégration des nouveaux arrivants.
 - Premiers développements de scripts PowerShell pour traiter ces difficultés.
-- Analyse des données du support et création de reportings/tableaux de bord pour rationaliser la charge et la prise de décision.
+- Analyse des données du support et création de reportings/tableaux de bord pour rationaliser la charge, la prise de décision, les besoins et la dette technique.
 
 #### 2013-2014 - Responsable projet N2
 
@@ -96,27 +105,28 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Migration d'infrastructures et d'Active Directory.
 - Développement accru de scripts PowerShell et Python pour améliorer, automatiser, fiabiliser et normaliser les procédures et les intégrations.
 - Utilisation d'orchestrateurs, notamment Jenkins.
-- Pilotage de prestataires de logiciels tiers pendant les phases d'intégration **à confirmer pour cette période précise**.
-- Gestion de parcs RDS et d'infrastructures virtuelles multi-Active Directory sous Windows et Linux **à confirmer pour cette période précise**.
+- Pilotage de prestataires de logiciels tiers pendant les phases d'intégration.
+- Gestion de parcs RDS et d'infrastructures virtuelles multi-Active Directory sous Windows et Linux.
+- Gestion des contraintes des bureaux RDS sur liaisons MPLS et Internet : QoS, relations avec les opérateurs, saturation et latence.
 
-#### 2015-2021 - Chargé de scalabilité / Scalability Manager
+#### 2015-2020 - Chargé de scalabilité / Scalability Manager
 
-- Création progressive d'une fonction transverse grâce à la connaissance des besoins de l'entreprise et de l'infrastructure, à l'identification des problèmes récurrents et à la maîtrise du scripting et de l'automatisation.
-- Conception d'outils sur mesure destinés à améliorer la productivité de l'ensemble des équipes techniques.
+- Création progressive d'une fonction transverse grâce à la connaissance des besoins de l'entreprise du support N1, N2 et de l'infrastructure, à l'identification des problèmes récurrents et à la maîtrise du scripting et de l'automatisation.
+- Analyse de données, reporting et identification des goulets d'étranglement de l'infrastructure, des points de friction du support et des problèmes récurrents.
+- Conception d'outils sur mesure destinés à améliorer la productivité de l'ensemble des équipes techniques N1 et N2 et création d'un niveau N0 grâce à ces outils.
 - Réduction de la dette technique et fluidification des processus.
-- Analyse de données, reporting et identification des goulets d'étranglement de l'infrastructure et des points de friction du support.
 - Conception de solutions, réalisation de preuves de concept, développement d'outils, scripts et logiciels internes.
 - Création de produits internes, notamment Open Printing Tunnel, ainsi que d'outils destinés aux utilisateurs distants.
 - Éloignement progressif des équipes de production et rapprochement des équipes responsables de l'infrastructure, des normes et procédures, et de la mise en place d'ISO 27001.
 - Coordination d'équipes projet et formation des équipes techniques.
 - Industrialisation et automatisation des opérations.
 - Participation à une Team Agile dans le cadre de l'obtention, du suivi opérationnel et des audits de certification ISO 27001.
-- Participation à des démarches qualité ISO 9001 **À préciser**.
+- Contribution entre 2014 et 2016 au projet open source LessPass et intégration étendue de cette approche dans l'infrastructure du data center pour gérer de nombreux comptes et services sans stocker les mots de passe dans un coffre central.
 
-### 2007-2010 - Technicien qualité et métrologie - JLG France, levage industriel
+### 2007-2009 - Technicien qualité et métrologie - JLG France, levage industriel
 
 - Contrôle visuel, dimensionnel et géométrique de pièces détachées et produits finis à partir de définitions techniques.
-- Contrôle tridimensionnel sur bras articulé FARO.
+- Contrôle tridimensionnel MMT sur bras articulé FARO.
 - Échantillonnage de production.
 - Suivi et étalonnage d'instruments de mesure.
 - Enregistrement des défauts et rédaction de rapports de non-conformité.
@@ -128,72 +138,89 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 
 - Découverte et appropriation de la programmation de MMT, à l'intersection de la mécanique, des mathématiques, du développement et du contrôle qualité.
 - Programmation d'une MMT Leitz motorisée avec Quindos 7 (Hexagon).
-- Programmation d'autres MMT beaucoup plus anciennes, non motorisées et manipulées manuellement, fonctionnant sur un poste monochrome sous MS-DOS 3 avec un logiciel métrologique aujourd'hui non identifié ; ces machines ne disposaient pas du scanning.
+- Programmation d'autres MMT beaucoup plus anciennes, non motorisées et manipulées manuellement, fonctionnant sur un poste MS-DOS 3 avec un logiciel métrologique non identifié ; ces machines ne disposaient pas du scanning.
 - Reprise de programmes de contrôle existants en mode point à point et implémentation de nouvelles versions utilisant le scanning.
-- Mise en œuvre du scanning continu : maintien du capteur au contact de la pièce et acquisition de plusieurs points par seconde.
-- Contrôle d'aubes en Inconel et de bords d'attaque en titane, pour plusieurs modèles et différents moteurs aéronautiques.
-- Recalages mathématiques et validation de conformité.
+- Mise en œuvre du scanning : glissement du capteur au contact de la pièce et acquisition de plusieurs points par seconde.
+- Contrôle forme complexe d'aubes en Inconel et de bords d'attaque en titane, sur plusieurs modèles et différents moteurs aéronautiques.
+- Recalages mathématiques global et par section puis validation de conformité.
 
 ### Fin 2004 - Contrôleur métrologue - Sanofi Aventis France
 
-- Mission d'environ six mois au sein du service qualité, dans l'équipe chargée de l'étalonnage de l'ensemble du matériel.
-- Étalonnage et suivi de petits instruments comme de matériels complexes, notamment des balances dynamiques.
-- Les mois exacts ne sont pas considérés comme déterminants pour présenter cette compétence ; site, type de contrat, normes et périmètre réglementaire pourront être précisés si une offre l'exige.
+- Mission de six mois au sein du service qualité, dans l'équipe chargée de l'étalonnage de l'ensemble du matériel de mesure.
+- Étalonnage et suivi de petits instruments comme de matériels complexes, notamment des balances dynamiques a poudre.
 
 ### Septembre 2003-juin 2004 - Technicien d'études en alternance - ICMCB-CNRS / secteur aéronautique
 
-- Mise en place d'un prototype de fabrication et caractérisation de matériaux composites à matrice métallique en titane pour l'aéronautique, destinés plus particulièrement aux disques aubagés monoblocs (DAM).
+- Membre de l'équipe associée à un [travail de thèse référencé par l'Université de Bordeaux](https://theses.fr/2004BOR12864), mené pour Snecma-Moteurs, aujourd'hui Safran Aircraft Engines.
+- Mise en place d'un prototype de fabrication et caractérisation de matériaux composites à matrice métallique (titane) pour l'aéronautique, destinés plus particulièrement aux disques aubagés monoblocs (DAM).
+- Contribution au plan d'expériences destiné à identifier les paramètres de fabrication pertinents.
 - Mise en place d'une colonne de dépôt chimique en phase vapeur (CVD) à défilement pour enduire les fibres de titane.
-- Automatisation sous Excel et LabVIEW de la caractérisation des fibres revêtues.
-- Participation à un plan d'expériences destiné à identifier les paramètres de fabrication pertinents.
+- Automatisation sous Excel et LabVIEW de la caractérisation mécanique des fibres revêtues par essais de traction destructifs.
 - Test et caractérisation d'environ 1 500 échantillons de fibres pour constituer une base statistique robuste.
-- Création d'une méthode de traction en série sans précharge, améliorant la précision des résultats.
+- Création d'une méthode d'essai de traction sans précharge, améliorant la précision des résultats par rétrocompensation numérique.
 - Intitulé officiel de la mission, entreprise partenaire, instruments et résultats chiffrés complémentaires : **À préciser**.
 
 ## Projets et réalisations majeures
 
 ### RDS.Dragonfly - Console centralisée d'administration d'infrastructures
 
-- Projet conçu et développé seul pour répondre aux difficultés de recrutement et de montée en compétence dans une entreprise d'environ 25 salariés confrontée à une croissance de clientèle de l'ordre de 20 à 30 %.
-- Interface de management et de supervision conçue notamment en PowerShell.
+- Projet conçu et développé seul pour compenser les difficultés de recrutement et de montée en compétence dans une entreprise d'environ 25 salariés confrontée à une croissance de clientèle de l'ordre de 20 à 30 %.
+- Interface de management et de supervision conçue principalement en PowerShell (plus de 40 000 lignes de code).
 - Connexion à des services Windows, Linux, Active Directory, DNS, VMware vSphere, Jenkins et serveurs de fichiers.
 - Vision centralisée et actions en temps réel pour le support N0 à N3, les architectes et les responsables.
-- Simplification de l'autonomie des techniciens : l'outil leur évitait de devoir maîtriser préalablement l'intégralité de l'infrastructure.
+- Simplification de l'autonomie des techniciens : l'outil leur évitait de devoir maîtriser préalablement l'intégralité de l'infrastructure et en accélérait la découverte.
 - Intervention directe, en quelques secondes, sur les serveurs TSE et les sessions utilisateurs.
 - Délégation aux techniciens N1 et N2 d'opérations de maintenance sur l'infrastructure virtuelle en un clic : ajout d'espace disque, de mémoire vive ou de CPU.
-- Visualisation par entreprise de l'ensemble des utilisateurs connectés et de paramètres utiles au diagnostic : imprimantes et configurations de logiciels enregistrées dans les bases de registre.
-- Ordres de grandeur approximatifs mais défendables en entretien : plus de 400 sociétés, environ 2 000 à 3 000 serveurs et 10 000 utilisateurs distants.
-- Impacts estimés et défendables en entretien : temps de réaction N1 ramené d'environ 45 à 5 minutes et autonomie des nouveaux techniciens ramenée d'environ six mois à quinze jours.
+- Visualisation par entreprise de l'ensemble des utilisateurs connectés et de paramètres utiles au diagnostic : configuration du profil utilisateur, imprimantes et configurations logicielles présentes dans les bases de registre.
+- Ordres de grandeur approximatifs : plus de 400 sociétés, environ +2 000 serveurs et +10 000 utilisateurs distants.
+- Impacts estimés : temps de réaction N1 ramené d'environ 25 à 5 minutes (-80%) et autonomie des nouveaux techniciens ramenée d'environ six mois à quinze jours.
 - Dépôt public : [sctfic/RDS.Dragonfly](https://github.com/sctfic/RDS.Dragonfly).
 
 ### Open Printing Tunnel (OPT) - Réseau d'impression multisite
 
-- Solution inventée à partir du besoin et POC initial créé seul en 2015, afin de remplacer avantageusement ThinPrint et de réduire les diagnostics récurrents du support sur les impressions distantes.
-- Proxy d'impression chiffré, compressé et optimisé pour les liaisons WAN à débit limité.
-- Isolation de flux par VLAN, gestion de bande passante et supervision/prédiagnostic via interface web.
-- Développement de l'interface web avec un collaborateur après validation du POC.
+- Solution inventée à partir du besoin et POC initial créé seul en 2015, afin de remplacer avantageusement ThinPrint et de réduire les besoins de diagnostics récurrents du support sur les impressions distantes.
+- Proxy d'impression chiffré, compressé et optimisé pour les liaisons WAN à débit limité, avec application d'une limite de bande passante aux impressions de chaque site client.
+- Isolation des flux par VLAN, gestion de bande passante et supervision/prédiagnostic via une interface web et un module PowerShell.
+- Pilotage du développement de l'interface web avec un prestataire après validation du POC.
 - Mise à disposition, pour chaque entreprise cliente, d'un serveur web permettant d'administrer son parc de Raspberry Pi et d'imprimantes.
-- Technologies documentées dans le dépôt public : Python, Django, Flask, API REST, Vue.js, JavaScript, Docker, Docker Compose, Bash, SSH, autossh, Trickle et Nginx.
-- Effondrement des besoins de maintenance N1 chez les premiers clients équipés après quelques mois, entraînant la généralisation de la solution à tous les clients et sites.
-- Pilotage de l'équipe chargée de la version 2, avec une nouvelle interface et une architecture reposant sur un conteneur Docker par VLAN.
-- Déploiement national et dans des pays limitrophes.
-- Ordres de grandeur approximatifs et évolutifs en raison des ajouts et suppressions quotidiennes : environ 900 Raspberry Pi, 4 000 à 5 000 imprimantes/copieurs, 2 000 sites et près de 10 000 utilisateurs.
+- Technologies documentées dans le dépôt public : SSH, autossh, Trickle (cœur de la limitation de bande passante d'OPT), Nginx, Docker, Docker Compose, Bash, Python, Django, Flask, API REST, Vue.js et JavaScript.
+- Effondrement des besoins de maintenance N1 chez les premiers clients équipés constaté en quelques mois, entraînant la généralisation de la solution à tous les clients et sites.
+- Gain supérieur à 15 000 € par mois depuis 2015, entre les économies de licences ThinPrint et les revenus issus des licences OPT.
+- Pilotage de l'équipe chargée de la version 2 (2017), avec une nouvelle interface et une architecture reposant sur un conteneur Docker par VLAN.
+- Déploiement national et sur quelques sites de pays limitrophes.
+- Ordres de grandeur approximatifs et évolutifs en raison des ajouts et suppressions quotidiennes : environ 900 sites utilisant des Raspberry Pi pour OPT et 4 000 à 5 000 imprimantes/copieurs.
 - Parc ayant évolué au fil du projet depuis les premiers Raspberry Pi jusqu'aux Raspberry Pi 2, 3 et 4.
 - Dépôt public archivé : [edouard-lopez/open-printing-tunnel](https://github.com/edouard-lopez/open-printing-tunnel).
+
+### LessPass - Gestion déterministe et sans stockage des mots de passe
+
+- Contribution au projet open source entre 2014 et 2016.
+- Intégration étendue de LessPass dans l'infrastructure du data center afin de gérer les mots de passe de nombreux comptes et services.
+- Approche « stateless » : génération déterministe des mots de passe à la demande à partir d'un mot de passe maître et des caractéristiques du compte, sans conservation des mots de passe générés.
+- Suppression du besoin d'exploiter, synchroniser et protéger une base centrale contenant les secrets.
+- Contribution à l'implémentation PowerShell utilisée pour l'intégration aux outils d'administration.
+- Site du projet : [lesspass.com](https://lesspass.com/).
+- Module PowerShell public : [edouard-lopez/lesspass-powershell](https://github.com/edouard-lopez/lesspass-powershell/blob/master/Lesspass/Lesspass.psd1).
 
 ### Probe - Plateforme de données environnementales
 
 - Conception et réalisation de bout en bout.
-- Serveur développé sous Node.js.
+- Serveur sous Node.js, Nginx et PM2.
 - Collecte depuis une station météorologique Davis Vantage Pro 2, des modules WhisperEye et des API météo, dont Open-Meteo pour les archives et prévisions.
 - Acquisition haute résolution synchronisée avec le paramétrage matériel, avec des intervalles de 1 à 60 minutes.
 - Ingestion asynchrone et stockage central de séries temporelles dans InfluxDB.
 - Fonctionnement local hors ligne possible pour préserver l'indépendance vis-à-vis des services tiers, ou déploiement connecté à Internet.
-- Visualisations interactives et tableaux de bord D3.js/SVG, notamment des vues 2D/3D de longue durée et des spirales temporelles.
-- Création de sondes calculées, de sondes intégratrices et de tableaux de bord associant plusieurs capteurs.
+- Visualisations interactives et tableaux de bord D3.js/SVG, notamment des vues 2D/3D de longue durée et des spirales temporelles couvrant de très longues périodes, jusqu'à 80 ans.
+- Sondes composites : capteurs virtuels dont la valeur est générée par une fonction de calcul dépendant de plusieurs capteurs réels.
+- Modèles intégrateurs : nouvelles entrées de données produites à chaque collecte par une fonction exploitant l'historique et/ou les prévisions des capteurs disponibles.
+- Architecture prévue pour piloter les actionneurs des WhisperEye à partir des résultats des sondes composites et des modèles intégrateurs.
+- Création de tableaux de bord associant plusieurs capteurs réels ou virtuels.
 - Dépôt public : [sctfic/Probe2](https://github.com/sctfic/Probe2).
 - Démonstration en ligne : [probe.lpz.ovh](https://probe.lpz.ovh/).
-- Audience, volumétrie totale, disponibilité mesurée et résultats : **À préciser**.
+- Tableau de bord : [Multi-Dashboard](https://probe.lpz.ovh/dashboard.html?station=VP2_Serramoune)
+- Comparateur 2D : [2D](https://probe.lpz.ovh/plotsChart.html?station=VP2_Serramoune&sensorList=irradiance:solar,temperature:outTemp)
+- 3D : [3D](https://probe.lpz.ovh/spirale3DChart.html?station=VP2_Serramoune&sensor=temperature:outTemp)
+
 
 ### WhisperEye - Firmware IoT autonome
 
@@ -236,6 +263,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Supervision réseau et administration d'infrastructures de data centers.
 - SSH, VLAN et optimisation de flux WAN.
 - InfluxDB et données temporelles.
+- Gestion déterministe de mots de passe sans coffre central avec LessPass et intégration PowerShell.
 
 ### IoT et embarqué
 
@@ -244,7 +272,8 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Collecte de métriques physiques et gestion d'actionneurs.
 - Protocoles série et réseau.
 - Éco-conception de firmwares.
-- Microcontrôleurs **à détailler**.
+- Microcontrôleurs ESP32-S3 et développement embarqué en Rust.
+- Capteurs virtuels composites, modèles intégrateurs et logique de pilotage d'actionneurs.
 
 ### Qualité, métrologie et industrie
 
@@ -276,6 +305,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Création de procédures et amélioration continue.
 - Formation de techniciens et accompagnement d'utilisateurs.
 - Animation de groupes et vulgarisation scientifique.
+- Enseignement de l'éthique des affaires, de la RSE, de la gouvernance, des parties prenantes, des limites planétaires, de l'innovation responsable, de la communication éthique et de la finance durable.
 - Rigueur, autonomie, polyvalence et assertivité, revendiquées dans les CV.
 
 ## Formation et certifications
