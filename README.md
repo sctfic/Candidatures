@@ -25,7 +25,13 @@ Le fichier [`profil_maitre.md`](profil_maitre.md) centralise l'ensemble du parco
 - [x] Création d'une première version du profil maître
 - [x] Validation principale du parcours, des intitulés et des résultats quantifiés
 - [x] Traitement des dernières approximations chronologiques et informations techniques structurantes
-- [ ] Création des dossiers de candidature
-- [ ] Génération des CV et lettres adaptés aux offres
+- [x] Création du premier dossier de candidature
+- [x] Génération du premier CV et de la première lettre adaptés
+
+## Candidatures
+
+| Employeur | Poste | Échéance | État |
+|---|---|---:|---|
+| [Communauté de Communes de Lacq-Orthez](candidatures/2026-09-cc-lacq-orthez-ingenieur-systemes-reseaux/) | Ingénieur Systèmes et Réseaux | 13/11/2026 | Documents prêts - adresse postale à compléter |
 
 > Ce dépôt est public par décision explicite de son propriétaire et contient des coordonnées personnelles. Aucun nom de client confidentiel ne doit être ajouté aux documents.
