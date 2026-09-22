@@ -89,9 +89,9 @@ Les candidatures sans lettre de motivation ou sans adresse postale précise ne s
 
 **Destinataire :**
 
-Monsieur le Président  
-Communauté de Communes de Lacq-Orthez  
-Rond-point des Chênes - BP 73  
+Monsieur le Président<br>
+Communauté de Communes de Lacq-Orthez<br>
+Rond-point des Chênes - BP 73<br>
 64150 Mourenx
 
 Candidature par courrier, via Emploi Territorial ou par courriel à `recrutement@cc-lacqorthez.fr`.

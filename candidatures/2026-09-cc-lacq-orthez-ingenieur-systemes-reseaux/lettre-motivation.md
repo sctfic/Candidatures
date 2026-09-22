@@ -1,16 +1,16 @@
 # Lettre de motivation
 
-**Alban Lopez**  
-**[ADRESSE POSTALE PRÉCISE À COMPLÉTER]**  
-64290 Lasseube  
-06 51 81 81 24  
+**Alban Lopez**<br>
+**[ADRESSE POSTALE PRÉCISE À COMPLÉTER]**<br>
+64290 Lasseube<br>
+06 51 81 81 24<br>
 alban.lopez@gmail.com
 
 Lasseube, le 22 septembre 2026
 
-**À l'attention de Monsieur le Président**  
-Communauté de Communes de Lacq-Orthez  
-Rond-point des Chênes - BP 73  
+**À l'attention de Monsieur le Président**<br>
+Communauté de Communes de Lacq-Orthez<br>
+Rond-point des Chênes - BP 73<br>
 64150 Mourenx
 
 **Objet : Candidature au poste d'Ingénieur Systèmes et Réseaux - offre O064260904000649**
