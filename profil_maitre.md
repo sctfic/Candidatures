@@ -335,6 +335,14 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Français : langue principale.
 - Anglais : bonne capacité de lecture et d'écriture technique ; manque d'aisance à l'oral. Aucun niveau CECRL revendiqué à ce stade.
 
+## Engagement citoyen et secours
+
+### Début 2021-fin 2025 - Sapeur-pompier volontaire - Lasseube (64)
+
+- Engagement comme sapeur-pompier volontaire sur la commune de Lasseube.
+- Formations suivies : PSE1, PSE2, SUAP, incendie et secours routier.
+- Cet engagement complète le parcours professionnel par une expérience du secours et du service à la population.
+
 ## Centres d'intérêt et engagements
 
 - Climat, énergie, biodiversité et méthode scientifique.
