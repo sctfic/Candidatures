@@ -266,7 +266,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Menuiseries de cuisine, plomberie et filtration autonome : annoncées comme achevées.
 - Carrelage : en cours de finition.
 - Plaques de plâtre sous rampants et cloisons : travaux en cours de démarrage ou de réalisation.
-- Repère chronologique fourni : « fin 2026 ». **À préciser** : description reçue le 26 septembre 2026 ; confirmer s'il s'agit de l'état actuel ou d'un objectif de fin d'année.
+- État d'avancement actuel décrit en septembre 2026, confirmé par le candidat ; la mention initiale « fin 2026 » désignait les travaux en cours.
 
 #### Compétences illustrées par ce projet
 
