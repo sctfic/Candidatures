@@ -232,6 +232,51 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Dépôt public : [sctfic/WhisperEye](https://github.com/sctfic/WhisperEye).
 - Capteurs, protocoles, actionneurs, autonomie, mesures de consommation et feuille de route commerciale : **À préciser**.
 
+## Projet personnel d'autoconstruction
+
+### Transformation d'une grange en maison isolée en paille - Projet en cours
+
+- Projet personnel de rénovation lourde et d'extension d'une grange dont seule la toiture était initialement en bon état.
+- Prise en charge personnelle de la conception, des calculs et du dimensionnement, de l'organisation du chantier et de la réalisation des différents corps de métier. Ce rôle de conception technique est exercé dans le cadre de l'autoconstruction personnelle.
+- Mobilisation concrète des connaissances en physique, mécanique, thermique et hydraulique, du diagnostic de l'existant jusqu'à la mise en œuvre.
+
+#### Sols, maçonnerie et structure
+
+- Décaissement d'environ 30 cm et réalisation d'un hérisson ventilé en pouzzolane.
+- Réalisation d'une dalle béton dans l'extension et d'une dalle chaux-pouzzolane (« chauxolane ») dans la partie ancienne.
+- Dépose d'un mur porteur sur deux niveaux.
+- Remplacement des poutres maîtresses du plancher du premier étage.
+- Création d'ouvertures à l'emplacement de piliers porteurs.
+- Calcul des reprises de charges et assemblage des éléments correspondants.
+
+#### Enveloppe et thermique
+
+- Montage des murs en paille et dimensionnement de l'isolation.
+- Conception, calcul, dimensionnement et réalisation d'un chauffage au sol hydraulique.
+
+#### Réseaux, équipements et finitions
+
+- Pose des menuiseries de la cuisine.
+- Installation de la plomberie et d'un système de filtration autonome.
+- Réalisation du carrelage.
+- Pose de plaques de plâtre sous rampants et montage des cloisons.
+
+#### État d'avancement déclaré
+
+- Menuiseries de cuisine, plomberie et filtration autonome : annoncées comme achevées.
+- Carrelage : en cours de finition.
+- Plaques de plâtre sous rampants et cloisons : travaux en cours de démarrage ou de réalisation.
+- Repère chronologique fourni : « fin 2026 ». **À préciser** : description reçue le 26 septembre 2026 ; confirmer s'il s'agit de l'état actuel ou d'un objectif de fin d'année.
+
+#### Compétences illustrées par ce projet
+
+- Conception et conduite d'un projet technique pluridisciplinaire.
+- Calculs de structure et de reprises de charges appliqués à son propre chantier.
+- Dimensionnement thermique et hydraulique.
+- Pratique des matériaux biosourcés et de la rénovation du bâti ancien.
+- Maçonnerie, structure, isolation, chauffage, plomberie, filtration, menuiseries et second œuvre.
+- Autonomie, apprentissage pratique, résolution de problèmes et coordination des travaux.
+
 ## Compétences
 
 ### Développement, scripting et données
