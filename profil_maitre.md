@@ -6,11 +6,12 @@
 
 - Nom : Alban Lopez
 - Localisation : Lasseube (64290), Pyrénées-Atlantiques, France
+- Adresse : 1181 chemin DIDOT
 - Téléphone : 06 51 81 81 24 / +33 6 51 81 81 24
 - Courriel : alban.lopez@gmail.com
 - GitHub : `github.com/sctfic`
 - LinkedIn : `linkedin.com/in/alban-lopez-58bb0a31/` (profil peu renseigné et non maintenu régulièrement)
-- Autres identifiants mentionnés : `@sctfic`, `alban-lopez` **À préciser (plateformes concernées)**
+- Autres identifiants mentionnés : `@sctfic`, `alban-lopez`
 - Permis B, véhicule personnel
 - date de naissance : 31/10/1981
 - Âge indiqué en 2026 : 44 ans
@@ -23,7 +24,7 @@ Profil pluridisciplinaire associant :
 
 - mesures physiques, métrologie et contrôle qualité industriel ;
 - administration systèmes et réseaux, support et DevOps ;
-- développement d'outils, automatisation et analyse de données ;
+- analyse et consolidation de données multi-formats (tickets support, mesures, séries temporelles), développement d'outils et automatisation ;
 - conception de solutions IoT et embarquées ;
 - gestion de projet, amélioration continue, formation et vulgarisation scientifique ;
 - sensibilité aux enjeux climatiques, énergétiques et d'éco-conception.
@@ -37,6 +38,7 @@ Fil directeur : mobiliser la méthode scientifique, l'innovation et l'automatisa
 Localisation : Lasseube et Béarn.
 
 - Conception et développement de `Probe` (`probe.lpz.ovh`), plateforme de collecte, d'analyse et de visualisation de données environnementales, avec intégration en cours d'un module de pilotage d'actionneurs pour la domotique prédictive.
+- Réalisation de projets logiciels personnels, notamment E-bikeCockpit et Open-Ssh-Tunnel-Manager.
 - Architecture de collecte automatisée et asynchrone : station Davis VP2 et API météorologiques.
 - Stockage de séries temporelles avec InfluxDB.
 - Création de visualisations et tableaux de bord dynamiques avec D3.js et SVG, dont des représentations 2D, 3D et 2D à consolidation.
@@ -48,8 +50,9 @@ Localisation : Lasseube et Béarn.
 - Enseignement de la RSE en école de commerce.
 - Conseil en construction et rénovation.
 - Réalisation de chantiers de rénovation : cuisine, salle de bain, carrelage et réseau d'eau potable autonome.
-- L'auto-entreprise sert de cadre à des activités très diverses, sans activité commerciale à ce jour.
-- Nom commercial, statut précis des missions, clients, livrables et résultats : **À préciser**.
+- Missions autour de l'informatique pour des indépendants, des auto-entrepreneurs et de petites entreprises, en méthode agile :
+  - création d'un outil de devis et de facturation, et gestion de RDV web, pour des indépendants (thérapeutes) ;
+  - création de sites vitrine pour des indépendants.
 
 ### Septembre 2024-juin 2025 - Enseignant RSE - Eklore-ed School of Management
 
@@ -67,7 +70,7 @@ Localisation : Lasseube et Béarn.
   - communication responsable, communication numérique, études de cas et gestion de crise ;
   - éthique financière, investissement socialement responsable, finance durable, climat, régulation et nouvelles technologies financières.
 - Études de cas consacrées à Patagonia : analyse selon les sept questions centrales de la RSE (gouvernance, droits humains, travail, environnement, loyauté des pratiques, consommateurs et développement local) et mise en perspective avec les neuf limites planétaires.
-- Statut contractuel, méthodes pédagogiques et résultats : **À préciser**.
+- Statut de contractuel. Méthode : cours en amphithéâtre et travaux pratiques de mise en situation.
 
 ### 2022-2023 - DevOps / administrateur systèmes et réseaux - PEPs64, Billère
 
@@ -131,14 +134,13 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Suivi et étalonnage d'instruments de mesure.
 - Enregistrement des défauts et rédaction de rapports de non-conformité.
 - Isolement et mise en quarantaine des produits non conformes.
-- Automatisation du suivi ou du traitement des non-conformités d'échantillonnage via macros VBA.
-- Environnement ERP SAP mentionné dans le CV qualité **À rattacher à l'expérience concernée**.
+- Automatisation du suivi ou du traitement des non-conformités d'échantillonnage via macros VBA excel et eccess.
 
 ### Février-novembre 2005 - Programmeur et contrôleur tridimensionnel MMT - LISI Aerospace / ex-Creuzet Aéronautique
 
 - Découverte et appropriation de la programmation de MMT, à l'intersection de la mécanique, des mathématiques, du développement et du contrôle qualité.
 - Programmation d'une MMT Leitz motorisée avec Quindos 7 (Hexagon).
-- Programmation d'autres MMT beaucoup plus anciennes, non motorisées et manipulées manuellement, fonctionnant sur un poste MS-DOS 3 avec un logiciel métrologique non identifié ; ces machines ne disposaient pas du scanning.
+- Programmation d'autres MMT beaucoup plus anciennes, motorisées et non motorisées manipulées manuellement, fonctionnant sur un poste MS-DOS 3 avec un logiciel métrologique non identifié ; ces machines ne disposaient pas du scanning.
 - Reprise de programmes de contrôle existants en mode point à point et implémentation de nouvelles versions utilisant le scanning.
 - Mise en œuvre du scanning : glissement du capteur au contact de la pièce et acquisition de plusieurs points par seconde.
 - Contrôle forme complexe d'aubes en Inconel et de bords d'attaque en titane, sur plusieurs modèles et différents moteurs aéronautiques.
@@ -149,22 +151,22 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Mission de six mois au sein du service qualité, dans l'équipe chargée de l'étalonnage de l'ensemble du matériel de mesure.
 - Étalonnage et suivi de petits instruments comme de matériels complexes, notamment des balances dynamiques a poudre.
 
-### Septembre 2003-juin 2004 - Technicien d'études en alternance - ICMCB-CNRS / secteur aéronautique
+### Septembre 2003-juin 2004 - Technicien d'études - ICMCB-CNRS / Snecma-Moteurs
 
 - Membre de l'équipe associée à un [travail de thèse référencé par l'Université de Bordeaux](https://theses.fr/2004BOR12864), mené pour Snecma-Moteurs, aujourd'hui Safran Aircraft Engines.
 - Mise en place d'un prototype de fabrication et caractérisation de matériaux composites à matrice métallique (titane) pour l'aéronautique, destinés plus particulièrement aux disques aubagés monoblocs (DAM).
-- Contribution au plan d'expériences destiné à identifier les paramètres de fabrication pertinents.
+- Contribution au plan d'expériences destiné à identifier les paramètres d'etudes pertinents.
 - Mise en place d'une colonne de dépôt chimique en phase vapeur (CVD) à défilement pour enduire les fibres de titane.
 - Automatisation sous Excel et LabVIEW de la caractérisation mécanique des fibres revêtues par essais de traction destructifs.
 - Test et caractérisation d'environ 1 500 échantillons de fibres pour constituer une base statistique robuste.
 - Création d'une méthode d'essai de traction sans précharge, améliorant la précision des résultats par rétrocompensation numérique.
-- Intitulé officiel de la mission, entreprise partenaire, instruments et résultats chiffrés complémentaires : **À préciser**.
 
 ## Projets et réalisations majeures
 
 ### RDS.Dragonfly - Console centralisée d'administration d'infrastructures
 
 - Projet conçu et développé seul pour compenser les difficultés de recrutement et de montée en compétence dans une entreprise d'environ 25 salariés confrontée à une croissance de clientèle de l'ordre de 20 à 30 %.
+- Point de départ : analyse des temps d'intervention sur les incidents support, qui a mis en évidence un besoin de réactivité et de visibilité transverse sur l'infrastructure.
 - Interface de management et de supervision conçue principalement en PowerShell (plus de 40 000 lignes de code).
 - Connexion à des services Windows, Linux, Active Directory, DNS, VMware vSphere, Jenkins et serveurs de fichiers.
 - Vision centralisée et actions en temps réel pour le support N0 à N3, les architectes et les responsables.
@@ -172,12 +174,13 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Intervention directe, en quelques secondes, sur les serveurs TSE et les sessions utilisateurs.
 - Délégation aux techniciens N1 et N2 d'opérations de maintenance sur l'infrastructure virtuelle en un clic : ajout d'espace disque, de mémoire vive ou de CPU.
 - Visualisation par entreprise de l'ensemble des utilisateurs connectés et de paramètres utiles au diagnostic : configuration du profil utilisateur, imprimantes et configurations logicielles présentes dans les bases de registre.
-- Ordres de grandeur approximatifs : plus de 400 sociétés, environ +2 000 serveurs et +10 000 utilisateurs distants.
-- Impacts estimés : temps de réaction N1 ramené d'environ 25 à 5 minutes (-80%) et autonomie des nouveaux techniciens ramenée d'environ six mois à quinze jours.
+- Périmètre à l'époque du projet : plus de 400 sociétés, environ +2 000 serveurs et +10 000 utilisateurs distants.
+- Impacts : temps de réaction N1 ramené d'environ 25 à 5 minutes (-80%) et autonomie des nouveaux techniciens ramenée d'environ six mois à quinze jours.
 - Dépôt public : [sctfic/RDS.Dragonfly](https://github.com/sctfic/RDS.Dragonfly).
 
 ### Open Printing Tunnel (OPT) - Réseau d'impression multisite
 
+- Point de départ : analyse croisée des flux de tickets support, qui a révélé la part des incidents liés aux impressions distantes et leurs causes récurrentes.
 - Solution inventée à partir du besoin et POC initial créé seul en 2015, afin de remplacer avantageusement ThinPrint et de réduire les besoins de diagnostics récurrents du support sur les impressions distantes.
 - Proxy d'impression chiffré, compressé et optimisé pour les liaisons WAN à débit limité, avec application d'une limite de bande passante aux impressions de chaque site client.
 - Isolation des flux par VLAN, gestion de bande passante et supervision/prédiagnostic via une interface web et un module PowerShell.
@@ -188,16 +191,29 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Gain supérieur à 15 000 € par mois depuis 2015, entre les économies de licences ThinPrint et les revenus issus des licences OPT.
 - Pilotage de l'équipe chargée de la version 2 (2017), avec une nouvelle interface et une architecture reposant sur un conteneur Docker par VLAN.
 - Déploiement national et sur quelques sites de pays limitrophes.
-- Ordres de grandeur approximatifs et évolutifs en raison des ajouts et suppressions quotidiennes : environ 900 sites utilisant des Raspberry Pi pour OPT et 4 000 à 5 000 imprimantes/copieurs.
+- Parc à l'époque de la gestion du projet, évolutif au fil des ajouts et suppressions quotidiens : environ 900 sites utilisant des Raspberry Pi pour OPT et 4 000 à 5 000 imprimantes/copieurs.
 - Parc ayant évolué au fil du projet depuis les premiers Raspberry Pi jusqu'aux Raspberry Pi 2, 3 et 4.
 - Dépôt public archivé : [edouard-lopez/open-printing-tunnel](https://github.com/edouard-lopez/open-printing-tunnel).
+
+### E-bikeCockpit - Application Android pour vélos électriques
+
+- Application Android connectée en Bluetooth à des vélos électriques.
+- Suivi et visualisation 3D des parcours.
+- Gestion de la puissance moteur.
+- Projet réalisé dans le cadre d'une initiative liée à la mobilité douce dans les Landes (40).
+
+### Open-Ssh-Tunnel-Manager - Gestion de flux réseau via tunnels SSH
+
+- Application de gestion de flux réseau via tunnels SSH.
+- Gestion de flux chiffrés, compressés et limités en bande passante.
+- Dépôt public : [sctfic/Open-Ssh-Tunnel-Manager](https://github.com/sctfic/Open-Ssh-Tunnel-Manager).
 
 ### LessPass - Gestion déterministe et sans stockage des mots de passe
 
 - Contribution au projet open source entre 2014 et 2016.
 - Intégration étendue de LessPass dans l'infrastructure du data center afin de gérer les mots de passe de nombreux comptes et services.
 - Approche « stateless » : génération déterministe des mots de passe à la demande à partir d'un mot de passe maître et des caractéristiques du compte, sans conservation des mots de passe générés.
-- Suppression du besoin d'exploiter, synchroniser et protéger une base centrale contenant les secrets.
+- Suppression du besoin d'exploiter, synchroniser et protéger une base centrale contenant les secrets, pas de fuite possible.
 - Contribution à l'implémentation PowerShell utilisée pour l'intégration aux outils d'administration.
 - Site du projet : [lesspass.com](https://lesspass.com/).
 - Module PowerShell public : [edouard-lopez/lesspass-powershell](https://github.com/edouard-lopez/lesspass-powershell/blob/master/Lesspass/Lesspass.psd1).
@@ -205,6 +221,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 ### Probe - Plateforme de données environnementales
 
 - Conception et réalisation de bout en bout.
+- Outil d'analyse de données : ingestion, consolidation de sources hétérogènes (station, API météo, capteurs complémentaires), normalisation des séries temporelles et visualisation.
 - Serveur sous Node.js, Nginx et PM2.
 - Collecte depuis une station météorologique Davis Vantage Pro 2, des modules WhisperEye et des API météo, dont Open-Meteo pour les archives et prévisions.
 - Acquisition haute résolution synchronisée avec le paramétrage matériel, avec des intervalles de 1 à 60 minutes.
@@ -213,13 +230,13 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Visualisations interactives et tableaux de bord D3.js/SVG, notamment des vues 2D/3D de longue durée et des spirales temporelles couvrant de très longues périodes, jusqu'à 80 ans.
 - Sondes composites : capteurs virtuels dont la valeur est générée par une fonction de calcul dépendant de plusieurs capteurs réels.
 - Modèles intégrateurs : nouvelles entrées de données produites à chaque collecte par une fonction exploitant l'historique et/ou les prévisions des capteurs disponibles.
-- Architecture prévue pour piloter les actionneurs des WhisperEye à partir des résultats des sondes composites et des modèles intégrateurs.
+- Architecture prévue pour piloter des actionneurs (les WhisperEye) à partir des résultats des sondes composites et des modèles intégrateurs.
 - Création de tableaux de bord associant plusieurs capteurs réels ou virtuels.
 - Dépôt public : [sctfic/Probe2](https://github.com/sctfic/Probe2).
 - Démonstration en ligne : [probe.lpz.ovh](https://probe.lpz.ovh/).
 - Tableau de bord : [Multi-Dashboard](https://probe.lpz.ovh/dashboard.html?station=VP2_Serramoune)
 - Comparateur 2D : [2D](https://probe.lpz.ovh/plotsChart.html?station=VP2_Serramoune&sensorList=irradiance:solar,temperature:outTemp)
-- 3D : [3D](https://probe.lpz.ovh/spirale3DChart.html?station=VP2_Serramoune&sensor=temperature:outTemp)
+- longTime 3D : [3D](https://probe.lpz.ovh/spirale3DChart.html?station=VP2_Serramoune&sensor=temperature:outTemp)
 
 
 ### WhisperEye - Firmware IoT autonome
@@ -230,7 +247,9 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Éco-conception sans flux audio/vidéo afin de réduire l'empreinte logicielle et la consommation énergétique.
 - Intégration à Probe comme source de mesures complémentaires à la station Davis Vantage Pro 2.
 - Dépôt public : [sctfic/WhisperEye](https://github.com/sctfic/WhisperEye).
-- Capteurs, protocoles, actionneurs, autonomie, mesures de consommation et feuille de route commerciale : **À préciser**.
+- Capteurs : BME280, SCD41, SHT31, DS18B20, ST7789, TCA9548A, encodeur EC11, pilote DRV8701.
+- Protocoles : I2C, 1-Wire, Modbus.
+- Actionneurs : commande PWM.
 
 ## Projet personnel d'autoconstruction
 
@@ -286,18 +305,20 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Shell / Bash.
 - VBA Office, notamment macros Excel.
 - Node.js.
+- Développement Android.
+- Communication Bluetooth avec équipements connectés.
 - D3.js, SVG et visualisations interactives/3D.
 - C/C++ : notions embarquées.
 - Matlab et LabVIEW.
 - Power BI, Excel avancé, Access et Google Sheets.
-- Analyse, structuration, automatisation et visualisation de données.
+- Analyse de données : manipulation de formats hétérogènes, consolidation et croisement de sources, structuration, automatisation et visualisation.
 
 ### Systèmes, réseaux, cloud et DevOps
 
 - Conception réseau TCP/IP.
-- Windows Server : Active Directory, DNS, DHCP, RDS, DFS et GPO.
+- Windows Server : Active Directory, DNS, DHCP, RDS, DFS et GPO/GPP.
 - Linux.
-- VMware / vSphere.
+- VMware / vSphere, Hyper-V.
 - Docker.
 - Nginx.
 - Citrix.
@@ -364,16 +385,16 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Formation en instrumentation, sciences physiques et incertitudes de mesure.
 - Diplôme et intitulé confirmés ; la formulation « DUT Mesures Physiques et Génie des Matériaux » du CV IoT est erronée.
 
-### 2001 - Baccalauréat Génie des matériaux - Marmande
+### 2001 - Baccalauréat STI Génie des matériaux - Lycée Val de Garonne, Marmande (47)
 
-- Série/intitulé officiel, établissement, mention et date : **À préciser**.
+- Mention Bien.
 
 ### Certifications et formations continues
 
-- Certification Microsoft 70-642, infrastructure réseau et DNS, obtenue selon le candidat en 2011. Le profil LinkedIn mentionne « MCTS Network Infrastructure », délivrée en décembre 2010 : **date et intitulé à réconcilier à partir du certificat**.
+- Certification Microsoft 70-642, infrastructure réseau et DNS, obtenue en 2010.
 - Formations VMware et autres formations Microsoft suivies en 2015 et 2016, sans passage des examens de certification.
-- Administration système avancée, sécurité des infrastructures et gestion de projet Agile **à détailler**.
-- Formation/qualification Fresque du Climat et Ambassadeur MyCO2 **dates et niveaux à préciser**.
+- Formations internes chez Coaxis-ASP.
+- Fresqueur depuis 2020, niveau ceinture orange. Animateur MyCO2 (Carbone4).
 
 ## Langues
 
@@ -382,9 +403,9 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 
 ## Engagement citoyen et secours
 
-### Début 2021-fin 2025 - Sapeur-pompier volontaire - Lasseube (64)
+### 2021-2025 - Sapeur-pompier volontaire de 1re classe - SDIS de Lasseube (64)
 
-- Engagement comme sapeur-pompier volontaire sur la commune de Lasseube.
+- Engagement comme sapeur-pompier volontaire de 1re classe au SDIS de Lasseube.
 - Formations suivies : PSE1, PSE2, SUAP, incendie et secours routier.
 - Cet engagement complète le parcours professionnel par une expérience du secours et du service à la population.
 
@@ -399,14 +420,15 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 
 - Permis B et véhicule personnel.
 - Disponibilité flexible et aptitude déclarée au travail posté en 2x8 dans le CV qualité.
-- Mobilité géographique, télétravail, déplacements et préavis : **À préciser**.
+- Mobilité : Béarn. Télétravail accepté, sans recherche particulière.
+- Préavis : quasi nul, en tant qu'auto-entrepreneur.
 
 ## Règles de rédaction et points à arbitrer avant toute candidature
 
 1. Les dates anciennes peuvent rester exprimées par années ou périodes approximatives : leur précision au mois près n'est pas considérée comme déterminante pour démontrer les compétences.
 2. Privilégier dans les CV les responsabilités, réalisations, méthodes et technologies plutôt qu'une fausse précision chronologique.
-3. Présenter les chiffres de RDS.Dragonfly et OPT comme des ordres de grandeur approximatifs, défendables en entretien, et jamais comme des mesures auditées.
+3. Dater les chiffres de RDS.Dragonfly et OPT à la période de gestion du projet.
 4. Technologies réellement maîtrisées aujourd'hui et niveau par compétence.
-5. Confirmer les détails encore manquants de WhisperEye et les métriques d'usage de Probe.
-6. Ne publier aucun nom de client Coaxis ; les noms des projets, leurs architectures générales et leurs ordres de grandeur peuvent être rendus publics.
-7. Le dépôt de candidatures est public par choix explicite, y compris avec le téléphone, le courriel et la localisation déjà publics par ailleurs.
+5. Ne publier aucun nom de client Coaxis ; les noms des projets, leurs architectures générales et leurs chiffres datés peuvent être rendus publics.
+6. Le dépôt de candidatures est public par choix explicite, y compris avec le téléphone, le courriel et la localisation déjà publics par ailleurs.
+7. Lors de la création d'une candidature, omettre les éléments sans rapport ni intérêt pour le poste visé.
