@@ -26,6 +26,7 @@ Profil pluridisciplinaire associant :
 - administration systèmes et réseaux, support et DevOps ;
 - analyse et consolidation de données multi-formats (tickets support, mesures, séries temporelles), développement d'outils et automatisation ;
 - conception de solutions IoT et embarquées ;
+- identification des points de friction et automatisation des tâches et des processus, aujourd'hui outillée par l'intelligence artificielle ;
 - gestion de projet, amélioration continue, formation et vulgarisation scientifique ;
 - sensibilité aux enjeux climatiques, énergétiques et d'éco-conception.
 
@@ -38,7 +39,7 @@ Fil directeur : mobiliser la méthode scientifique, l'innovation et l'automatisa
 Localisation : Lasseube et Béarn.
 
 - Conception et développement de `Probe` (`probe.lpz.ovh`), plateforme de collecte, d'analyse et de visualisation de données environnementales, avec intégration en cours d'un module de pilotage d'actionneurs pour la domotique prédictive.
-- Réalisation de projets logiciels personnels, notamment E-bikeCockpit et Open-Ssh-Tunnel-Manager.
+- Réalisation de projets logiciels personnels, notamment E-bikeCockpit et Open-Ssh-Tunnel-Manager, développés avec l'aide d'IDE assistés par IA.
 - Architecture de collecte automatisée et asynchrone : station Davis VP2 et API météorologiques.
 - Stockage de séries temporelles avec InfluxDB.
 - Création de visualisations et tableaux de bord dynamiques avec D3.js et SVG, dont des représentations 2D, 3D et 2D à consolidation.
@@ -157,7 +158,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Mise en place d'un prototype de fabrication et caractérisation de matériaux composites à matrice métallique (titane) pour l'aéronautique, destinés plus particulièrement aux disques aubagés monoblocs (DAM).
 - Contribution au plan d'expériences destiné à identifier les paramètres d'etudes pertinents.
 - Mise en place d'une colonne de dépôt chimique en phase vapeur (CVD) à défilement pour enduire les fibres de titane.
-- Automatisation sous Excel et LabVIEW de la caractérisation mécanique des fibres revêtues par essais de traction destructifs.
+- Essais de traction destructifs réalisés manuellement sur les fibres revêtues ; automatisation de l'analyse des mesures sous Excel et LabVIEW.
 - Test et caractérisation d'environ 1 500 échantillons de fibres pour constituer une base statistique robuste.
 - Création d'une méthode d'essai de traction sans précharge, améliorant la précision des résultats par rétrocompensation numérique.
 
@@ -313,6 +314,14 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Power BI, Excel avancé, Access et Google Sheets.
 - Analyse de données : manipulation de formats hétérogènes, consolidation et croisement de sources, structuration, automatisation et visualisation.
 
+### Intelligence artificielle et prompting
+
+- Formations en Prompt Engineering, dont le MOOC en ligne Vision IA (2025).
+- Veille régulière sur le sujet et usage personnel de différents outils d'IA générative.
+- Développement assisté par IA : projets codés avec l'aide de Gemini, Claude, ChatGPT, DeepSeek et GLM, via IDE et en « vibe coding ». E-bikeCockpit et Open-Ssh-Tunnel-Manager ont été développés ainsi ; Probe a été commencé sans outils d'IA.
+- Bonnes connaissances du fonctionnement des IA, de leurs principes d'utilisation et des bonnes pratiques.
+- Automatisation par l'IA : prolongement de la démarche menée comme Scalability Manager chez Coaxis (identifier les points de friction, réduire la charge opérationnelle des équipes techniques, automatiser les tâches et les processus). Cette compétence prend encore plus de valeur avec l'arrivée des IA, qui permettent de mettre en place ce type de réponse.
+
 ### Systèmes, réseaux, cloud et DevOps
 
 - Conception réseau TCP/IP.
@@ -394,6 +403,7 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 - Certification Microsoft 70-642, infrastructure réseau et DNS, obtenue en 2010.
 - Formations VMware et autres formations Microsoft suivies en 2015 et 2016, sans passage des examens de certification.
 - Formations internes chez Coaxis-ASP.
+- Formations en Prompt Engineering, dont le MOOC en ligne Vision IA (2025).
 - Fresqueur depuis 2020, niveau ceinture orange. Animateur MyCO2 (Carbone4).
 
 ## Langues
@@ -432,3 +442,4 @@ Parcours de progression interne en quatre étapes, depuis la hotline de niveau 1
 5. Ne publier aucun nom de client Coaxis ; les noms des projets, leurs architectures générales et leurs chiffres datés peuvent être rendus publics.
 6. Le dépôt de candidatures est public par choix explicite, y compris avec le téléphone, le courriel et la localisation déjà publics par ailleurs.
 7. Lors de la création d'une candidature, omettre les éléments sans rapport ni intérêt pour le poste visé.
+8. Mentionner l'IA seulement si l'offre s'y prête (développement, données, automatisation, innovation). Ne pas parler d'expertise : parler de pratique et de bonnes connaissances.

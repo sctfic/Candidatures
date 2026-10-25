@@ -19,7 +19,7 @@ Chez LISI Aerospace, j'ai programmé et exploité des MMT sur des pièces de mot
 
 Ma programmation MMT s'est construite sous Quindos 7. Je sais que Calypso est votre référence : la logique de construction d'un programme de mesure, de choix des référentiels et de stratégie de palpage est la même, et je suis prêt à me former rapidement à cet outil. De même, je suis prêt à suivre la formation de pontier élingueur et l'habilitation SGS requises pour le poste.
 
-Depuis 2009, j'ai orienté mon parcours vers l'informatique industrielle et l'automatisation, sans perdre le goût de la mesure fiable. J'en retiens l'habitude de documenter, de fiabiliser les procédures et d'automatiser les suivis, par exemple celui des non-conformités, ce que je mettrais volontiers au service de votre atelier. Rigoureux, adaptable et attaché au travail en équipe, je suis disponible pour travailler en équipes.
+Depuis 2009, j'ai orienté mon parcours vers l'informatique, dans un data center, et l'automatisation, sans perdre le goût de la mesure fiable. J'en retiens l'habitude de documenter, de fiabiliser les procédures et d'automatiser les suivis, par exemple celui des non-conformités, ce que je mettrais volontiers au service de votre atelier. Rigoureux, adaptable et attaché au travail en équipe, je suis disponible pour travailler en équipes.
 
 Je serais heureux de vous rencontrer pour vous présenter mon expérience et échanger sur les contrôles que vous confiez à vos équipes.
 
