@@ -32,8 +32,9 @@ Le fichier [`profil_maitre.md`](profil_maitre.md) centralise l'ensemble du parco
 
 | Employeur | Poste | Échéance | État |
 |---|---|---:|---|
-| [Communauté de Communes de Lacq-Orthez](candidatures/2026-09-cc-lacq-orthez-ingenieur-systemes-reseaux/) | Ingénieur Systèmes et Réseaux | 13/11/2026 | Documents prêts - adresse postale à compléter |
+| [Communauté de Communes de Lacq-Orthez](candidatures/2026-09-cc-lacq-orthez-ingenieur-systemes-reseaux/) | Ingénieur Systèmes et Réseaux | 13/11/2026 | Documents régénérés le 27/10/2026 - à relire avant envoi |
 | [SDIS 64](candidatures/2026-10-sdis-64-data-steward/) | Data Steward (Référent des données) | 22/11/2026 | Documents prêts - à relire avant envoi |
+| [EPTB Adour affluents aquifères](candidatures/2026-10-eptb-adour-observatoire-eau/) | Chargé de mission observatoire de l'eau | 28/11/2026 | Documents prêts - à relire avant envoi |
 | [Safran Helicopter Engines](candidatures/2026-10-safran-helicopter-engines-controleur-tridimensionnel/) | Contrôleur tridimensionnel F/H | Non indiquée | Documents prêts - vérifier que l'offre est encore ouverte |
 
 > Ce dépôt est public par décision explicite de son propriétaire et contient des coordonnées personnelles. Aucun nom de client confidentiel ne doit être ajouté aux documents.

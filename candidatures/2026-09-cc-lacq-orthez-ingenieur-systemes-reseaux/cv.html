@@ -5,51 +5,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CV Alban Lopez - Ingénieur Systèmes et Réseaux</title>
   <style>
-    :root { --navy:#15344b; --blue:#007f92; --pale:#eaf4f5; --ink:#17242d; --muted:#52636e; --line:#cbd9dd; --warn:#9b2c2c; }
+    :root { --navy:#15344b; --blue:#007f92; --pale:#eaf4f5; --ink:#17242d; --muted:#52636e; --line:#cbd9dd; }
     * { box-sizing:border-box; }
-    body { margin:0; background:#e8ecef; color:var(--ink); font-family:Arial, Helvetica, sans-serif; font-size:9.1pt; line-height:1.34; }
-    .page { width:210mm; min-height:297mm; margin:10mm auto; background:white; box-shadow:0 2mm 8mm #0002; position:relative; overflow:hidden; }
-    .masthead { background:var(--navy); color:white; padding:14mm 15mm 9mm; border-bottom:4px solid var(--blue); }
-    h1 { margin:0; font-size:25pt; letter-spacing:.7px; }
-    .role { color:#9de2e7; font-weight:700; font-size:12.5pt; margin-top:2mm; letter-spacing:.2px; }
-    .baseline { margin-top:2mm; color:#dce9ee; font-size:9.5pt; }
-    .contact { display:flex; flex-wrap:wrap; gap:1.6mm 5mm; margin-top:5mm; font-size:8.6pt; }
+    body { margin:0; background:#e8ecef; color:var(--ink); font-family:Arial, Helvetica, sans-serif; font-size:8.7pt; line-height:1.32; }
+    .page { width:210mm; height:297mm; margin:10mm auto; background:white; box-shadow:0 2mm 8mm #0002; position:relative; overflow:hidden; }
+    .masthead { background:var(--navy); color:white; padding:11mm 15mm 7mm; border-bottom:4px solid var(--blue); }
+    h1 { margin:0; font-size:24pt; letter-spacing:.7px; }
+    .role { color:#9de2e7; font-weight:700; font-size:12pt; margin-top:2mm; }
+    .baseline { margin-top:1.5mm; color:#dce9ee; font-size:9pt; }
+    .contact { display:flex; flex-wrap:wrap; gap:1.2mm 5mm; margin-top:4mm; font-size:8.4pt; }
     .contact a { color:white; text-decoration:none; }
-    .address-warning { color:#ffd0d0; font-weight:700; }
-    .body { display:grid; grid-template-columns:66mm 1fr; }
-    aside { background:#f4f8f9; padding:8mm 7mm 12mm 12mm; border-right:1px solid var(--line); }
-    main { padding:8mm 12mm 13mm 9mm; }
-    h2 { margin:0 0 3.3mm; color:var(--navy); font-size:12pt; text-transform:uppercase; letter-spacing:.5px; border-bottom:1.5px solid var(--blue); padding-bottom:1.4mm; }
-    h3 { margin:0; color:var(--navy); font-size:10.2pt; }
-    .section { margin-bottom:6mm; }
-    .profile { font-size:10pt; line-height:1.48; }
-    .tagline { font-weight:700; color:var(--blue); margin-bottom:2mm; }
-    .skill-group { margin-bottom:4.3mm; }
-    .skill-title { color:var(--blue); font-weight:700; margin-bottom:1.1mm; }
-    ul { margin:1.2mm 0 0; padding-left:4mm; }
-    li { margin:0 0 1.1mm; }
-    .job { margin-bottom:5.4mm; }
+    .body { display:grid; grid-template-columns:62mm 1fr; }
+    aside { background:#f4f8f9; padding:6mm 6mm 8mm 11mm; border-right:1px solid var(--line); min-height:240mm; }
+    main { padding:6mm 11mm 8mm 8mm; }
+    h2 { margin:0 0 2.6mm; color:var(--navy); font-size:11pt; text-transform:uppercase; letter-spacing:.5px; border-bottom:1.5px solid var(--blue); padding-bottom:1.2mm; }
+    h3 { margin:0; color:var(--navy); font-size:9.6pt; }
+    .section { margin-bottom:4.8mm; }
+    .profile { font-size:9.3pt; line-height:1.42; }
+    .tagline { font-weight:700; color:var(--blue); margin-bottom:1.5mm; }
+    .skill-group { margin-bottom:2.8mm; }
+    .skill-title { color:var(--blue); font-weight:700; margin-bottom:.8mm; }
+    ul { margin:1mm 0 0; padding-left:4mm; }
+    li { margin:0 0 .9mm; }
+    .job { margin-bottom:4.2mm; }
     .job-head { display:flex; justify-content:space-between; gap:4mm; align-items:baseline; }
-    .job-date { color:var(--blue); font-weight:700; white-space:nowrap; font-size:8.7pt; }
-    .employer { font-weight:700; color:var(--muted); margin-top:.6mm; }
-    .project { border-left:3px solid var(--blue); padding-left:3.2mm; margin:0 0 4mm; }
+    .job-date { color:var(--blue); font-weight:700; white-space:nowrap; font-size:8.4pt; }
+    .employer { font-weight:700; color:var(--muted); margin-top:.5mm; }
+    .project { border-left:3px solid var(--blue); padding-left:3.2mm; margin:0 0 3.6mm; }
     .metric { color:var(--blue); font-weight:700; }
-    .small { font-size:8.4pt; color:var(--muted); }
-    .pill { display:inline-block; padding:1.2mm 2mm; margin:0 1mm 1.2mm 0; background:var(--pale); color:var(--navy); border-radius:2mm; font-size:8.1pt; font-weight:700; }
-    .footer { position:absolute; bottom:5mm; right:12mm; color:#71818a; font-size:7.7pt; }
-    .page-break { page-break-before:always; }
+    .small { font-size:8pt; color:var(--muted); }
+    .pill { display:inline-block; padding:1mm 2mm; margin:0 1mm 1mm 0; background:var(--pale); color:var(--navy); border-radius:2mm; font-size:7.8pt; font-weight:700; }
+    .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:4mm 9mm; }
+    .footer { position:absolute; bottom:5mm; right:12mm; color:#71818a; font-size:7.5pt; }
     @page { size:A4; margin:0; }
     @media print { body { background:white; } .page { margin:0; box-shadow:none; page-break-after:always; } .page:last-child { page-break-after:auto; } }
-  </style>
+</style>
 </head>
 <body>
   <section class="page">
     <header class="masthead">
       <h1>ALBAN LOPEZ</h1>
       <div class="role">INGÉNIEUR SYSTÈMES &amp; RÉSEAUX</div>
-      <div class="baseline">Administration · Automatisation · Fiabilité · Sécurité</div>
+      <div class="baseline">Administration · Automatisation · Fiabilité · Sécurité · Accompagnement des utilisateurs</div>
       <div class="contact">
-        <span class="address-warning">[ADRESSE POSTALE PRÉCISE À COMPLÉTER], 64290 Lasseube</span>
+        <span>1181 chemin Didot, 64290 Lasseube</span>
         <span>06 51 81 81 24</span>
         <a href="mailto:alban.lopez@gmail.com">alban.lopez@gmail.com</a>
         <a href="https://github.com/sctfic">github.com/sctfic</a>
@@ -59,24 +58,19 @@
     <div class="body">
       <aside>
         <section class="section">
-          <h2>Expertise</h2>
-          <div class="skill-group"><div class="skill-title">Systèmes Microsoft</div>Windows Server, Active Directory, GPO, RDS/TSE, DFS, DNS, DHCP, gestion des identités et migrations d'annuaires.</div>
-          <div class="skill-group"><div class="skill-title">Linux &amp; infrastructure</div>Linux, VMware/vSphere, Veeam, Citrix, Docker, Nginx, Jenkins, serveurs de fichiers.</div>
+          <h2>Compétences</h2>
+          <div class="skill-group"><div class="skill-title">Systèmes Microsoft</div>Windows Server, Active Directory, GPO/GPP, RDS/TSE, DFS, DNS, DHCP ; identités, accès et migrations d'annuaires.</div>
+          <div class="skill-group"><div class="skill-title">Linux et virtualisation</div>Linux, VMware vSphere, Hyper-V, Veeam, Citrix, Docker, Nginx, Jenkins, serveurs de fichiers.</div>
           <div class="skill-group"><div class="skill-title">Réseaux</div>TCP/IP, VLAN, MPLS, QoS, liaisons WAN, relations opérateurs, supervision et diagnostic.</div>
-          <div class="skill-group"><div class="skill-title">Automatisation</div>PowerShell expert, Python, Bash, VBA, API REST, industrialisation et orchestration.</div>
-          <div class="skill-group"><div class="skill-title">Exploitation</div>Support N1/N2, incidents complexes, analyse des causes, performance, procédures, formation et amélioration continue.</div>
-          <div class="skill-group"><div class="skill-title">Sécurité &amp; qualité</div>ISO 27001, environnements ISO 9001, contrôle des accès, LessPass, traçabilité et documentation.</div>
+          <div class="skill-group"><div class="skill-title">Automatisation</div>PowerShell expert, Python, Bash, VBA, API REST, orchestration Jenkins ; développement assisté par IA.</div>
+          <div class="skill-group"><div class="skill-title">Exploitation et support</div>Incidents complexes, causes racines, performance, procédures, onboarding et formation.</div>
+          <div class="skill-group"><div class="skill-title">Sécurité et qualité</div>ISO 27001, environnements ISO 9001, gestion des accès, LessPass, traçabilité et documentation.</div>
         </section>
         <section class="section">
           <h2>Formation</h2>
           <div class="skill-group"><strong>Licence professionnelle</strong><br>Gestion de projet innovant et numérique<br><span class="small">Université Bordeaux 1 · 2004</span></div>
-          <div class="skill-group"><strong>DUT Mesures Physiques</strong><br>Option Techniques instrumentales<br><span class="small">Université Bordeaux 1 · 2003</span></div>
-          <div class="skill-group"><strong>Microsoft 70-642</strong><br>Network Infrastructure<br><span class="small">Certification obtenue · 2011</span></div>
-          <div class="skill-group"><strong>Formations continues</strong><br>VMware et technologies Microsoft<br><span class="small">2015-2016</span></div>
-        </section>
-        <section class="section">
-          <h2>Atouts</h2>
-          <span class="pill">Autonomie</span><span class="pill">Rigueur</span><span class="pill">Analyse</span><span class="pill">Service</span><span class="pill">Transmission</span><span class="pill">Innovation</span>
+          <div class="skill-group"><strong>DUT Mesures Physiques</strong><br>Techniques instrumentales<br><span class="small">Université Bordeaux 1 · 2003</span></div>
+          <div class="skill-group"><strong>Microsoft 70-642</strong><br>Infrastructure réseau et DNS<br><span class="small">Certification · 2010</span></div>
         </section>
         <section class="section">
           <h2>Langues</h2>
@@ -87,117 +81,93 @@
       <main>
         <section class="section">
           <h2>Profil</h2>
-          <div class="profile"><div class="tagline">Innovation, automatisation et science.</div>
-          Plus de douze ans d'expérience en administration systèmes et réseaux, du support opérationnel au pilotage d'outils d'infrastructure. Expert PowerShell, j'analyse les points de friction, automatise les opérations et transforme les incidents récurrents en solutions fiables, documentées et utilisables par les équipes.</div>
+          <div class="profile"><div class="tagline">Innovation, automatisation et science au service d'un SI fiable.</div>
+          Depuis 2009, du support de premier niveau au pilotage transverse de l'infrastructure, je transforme les irritants récurrents en solutions fiables, documentées et adoptées par les équipes. Praticien expert de PowerShell, je conjugue automatisation, analyse des données d'exploitation et sens du service aux utilisateurs.</div>
         </section>
         <section class="section">
           <h2>Expérience professionnelle</h2>
           <article class="job">
-            <div class="job-head"><h3>DevOps / Administrateur systèmes et réseaux</h3><span class="job-date">2022-2023</span></div>
-            <div class="employer">PEPs64 · Billère · Secteur social et handicap · 900+ collaborateurs</div>
-            <ul>
-              <li>Accompagnement du DSI dans la mise à niveau des processus et de l'infrastructure virtuelle multisite.</li>
-              <li>Mise en place de relations d'approbation inter-AD, DNS, DHCP, DFS et ferme RDS.</li>
-              <li>Création d'outils et interfaces PowerShell améliorant la visibilité et simplifiant l'administration.</li>
-            </ul>
+            <div class="job-head"><h3>Développeur full stack et formateur indépendant</h3><span class="job-date">Depuis 2022</span></div>
+            <div class="employer">Auto-entrepreneur · activité pluridisciplinaire · Béarn</div>
+            <ul><li>Applications métier pour indépendants et TPE, en méthode agile : devis, facturation et prise de rendez-vous en ligne ; sites vitrines.</li><li><strong>Probe</strong> : plateforme de données environnementales en réalisation full stack (Node.js, InfluxDB, D3.js).</li><li>Outillage réseau et embarqué : tunnels SSH chiffrés et bridés, application Android Bluetooth, firmware IoT en Rust.</li><li>Enseignement de l'éthique et de la RSE en Master (Eklore-ed, 2024-2025).</li></ul>
           </article>
           <article class="job">
-            <div class="job-head"><h3>Chargé de scalabilité / Scalability Manager</h3><span class="job-date">2015-2020</span></div>
+            <div class="job-head"><h3>Administrateur systèmes et réseaux · DevOps</h3><span class="job-date">2022-2023</span></div>
+            <div class="employer">PEPs64 · Billère · 900+ collaborateurs</div>
+            <ul><li>Accompagnement du DSI dans la modernisation de l'infrastructure virtuelle.</li><li>Relations d'approbation entre annuaires, refonte DNS et DHCP, arborescence DFS et ferme RDS ; intégration de sites distants en environnement TSE.</li><li>Outils et interfaces PowerShell offrant une vue consolidée du parc.</li></ul>
+          </article>
+          <article class="job">
+            <div class="job-head"><h3>Chargé de scalabilité · Scalability Manager</h3><span class="job-date">2015-2020</span></div>
             <div class="employer">Coaxis-ASP · Data center / Cloud · Fauguerolles</div>
-            <ul>
-              <li>Identification des goulets d'étranglement, analyse des incidents récurrents et réduction de la dette technique.</li>
-              <li>Conception de POC, développement et industrialisation d'outils pour les équipes N1/N2 et création d'un niveau N0.</li>
-              <li>Coordination de projets, formation des techniciens et rapprochement des équipes infrastructure, normes et procédures.</li>
-              <li>Participation à la Team Agile chargée de l'obtention et du suivi opérationnel ISO 27001.</li>
-            </ul>
+            <ul><li>Analyse des goulets d'étranglement, des incidents récurrents et de la dette technique.</li><li>Conception, prototypage et industrialisation d'outils pour les équipes N1/N2, jusqu'à la création d'un niveau N0.</li><li>Coordination de projets, montée en compétence des équipes ; membre de la Team Agile chargée de la certification ISO 27001.</li></ul>
           </article>
           <article class="job">
             <div class="job-head"><h3>Responsable projet N2</h3><span class="job-date">2013-2014</span></div>
-            <div class="employer">Coaxis-ASP · Data center / Cloud</div>
-            <ul>
-              <li>Intégration de nouveaux clients et migrations d'infrastructures et d'Active Directory.</li>
-              <li>Automatisation PowerShell/Python et orchestration Jenkins pour fiabiliser les procédures.</li>
-              <li>Gestion de parcs RDS, infrastructures Windows/Linux et contraintes MPLS, QoS, saturation et latence.</li>
-            </ul>
+            <div class="employer">Coaxis-ASP</div>
+            <ul><li>Intégration de nouveaux clients, migrations d'infrastructures et d'annuaires Active Directory, pilotage d'éditeurs tiers.</li><li>Automatisation PowerShell et Python, orchestration Jenkins ; parcs RDS multi-annuaires sous contraintes MPLS, QoS et latence.</li></ul>
           </article>
           <article class="job">
-            <div class="job-head"><h3>Support N1 puis formateur des techniciens</h3><span class="job-date">2009-2012</span></div>
-            <div class="employer">Coaxis-ASP · Data center / Cloud</div>
-            <ul>
-              <li>Diagnostic et résolution d'incidents logiciels, systèmes, serveurs, réseau et utilisateurs.</li>
-              <li>Formation des nouveaux techniciens et premiers scripts PowerShell issus de l'analyse des problèmes récurrents.</li>
-            </ul>
+            <div class="job-head"><h3>Hotline N1, puis formateur des techniciens</h3><span class="job-date">2009-2012</span></div>
+            <div class="employer">Coaxis-ASP</div>
+            <ul><li>Diagnostic d'incidents logiciels, systèmes, réseau et utilisateurs, en flux tendu.</li><li>Onboarding des nouveaux techniciens ; premiers scripts PowerShell et tableaux de bord issus des incidents récurrents.</li></ul>
+          </article>
+          <article class="job">
+            <div class="job-head"><h3>Sapeur-pompier volontaire</h3><span class="job-date">2021-2025</span></div>
+            <div class="employer">Lasseube · SDIS 64</div>
+            
           </article>
         </section>
       </main>
     </div>
     <div class="footer">CV ciblé · CCLO · Offre O064260904000649 · 1/2</div>
   </section>
-
-  <section class="page page-break">
-    <header class="masthead" style="padding-top:10mm;padding-bottom:7mm">
+  <section class="page">
+    <header class="masthead" style="padding-top:8mm;padding-bottom:5mm">
       <h1 style="font-size:19pt">ALBAN LOPEZ</h1>
       <div class="role">RÉALISATIONS &amp; COMPÉTENCES TRANSFÉRABLES</div>
     </header>
-    <div style="padding:10mm 15mm 15mm">
+    <div style="padding:8mm 15mm 12mm">
       <section class="section">
         <h2>Réalisations structurantes</h2>
         <article class="project">
           <h3>RDS.Dragonfly · Console centralisée d'administration</h3>
-          <p>Outil conçu et développé seul en PowerShell (<span class="metric">40 000+ lignes</span>) pour superviser et administrer une infrastructure Windows, Linux, Active Directory et VMware.</p>
-          <ul>
-            <li><span class="metric">400+ organisations · 2 000+ serveurs · 10 000+ utilisateurs distants.</span></li>
-            <li>Actions en quelques secondes sur les serveurs TSE, sessions, profils, imprimantes et paramètres applicatifs.</li>
-            <li>Délégation sécurisée d'opérations courantes : extension disque, mémoire et CPU.</li>
-            <li>Temps de réaction N1 ramené d'environ 25 à 5 minutes ; autonomie des nouveaux techniciens ramenée d'environ six mois à quinze jours.</li>
-          </ul>
+          <p style="margin:1mm 0 0">Née de l'analyse des temps d'intervention sur incident. Réalisation full stack en PowerShell (<span class="metric">40 000+ lignes</span>), connectée à Windows, Linux, Active Directory, DNS, VMware vSphere, Jenkins et aux serveurs de fichiers.</p>
+          <ul><li><span class="metric">400+ sociétés · 2 000+ serveurs · 10 000+ utilisateurs distants.</span></li><li>Actions en quelques secondes sur les serveurs TSE, sessions, profils, imprimantes et paramètres applicatifs ; délégation sécurisée aux N1/N2 de l'extension disque, mémoire et CPU.</li><li>Temps de réaction N1 abaissé d'environ 25 à 5 minutes ; <strong>onboarding</strong> des nouveaux techniciens ramené d'environ six mois à quinze jours.</li></ul>
         </article>
         <article class="project">
           <h3>Open Printing Tunnel · Infrastructure d'impression multisite</h3>
-          <p>Solution inventée et prototypée en 2015 pour remplacer ThinPrint, réduire les incidents d'impression distante et optimiser les liens WAN.</p>
-          <ul>
-            <li><span class="metric">Environ 900 sites et 4 000 à 5 000 imprimantes.</span></li>
-            <li>Flux SSH compressés et limités, isolation VLAN et administration web ; Raspberry Pi, Docker, Nginx, Python, Django/Flask et Vue.js.</li>
-            <li>Pilotage du développement puis de la V2 ; un conteneur Docker par VLAN.</li>
-            <li>Gain estimé supérieur à <span class="metric">15 000 € par mois</span> entre économies de licences et revenus OPT.</li>
-          </ul>
+          <p style="margin:1mm 0 0">Issue de l'analyse croisée des flux de tickets : prototype conçu en 2015 pour remplacer ThinPrint et ménager les liaisons WAN, puis pilotage de l'équipe de la V2.</p>
+          <ul><li><span class="metric">Environ 900 sites et 4 000 à 5 000 imprimantes.</span></li><li>Flux SSH chiffrés, compressés et bridés par site, isolation VLAN, un conteneur Docker par VLAN ; Raspberry Pi, Nginx, Python, Django/Flask, Vue.js.</li><li>Effondrement des sollicitations N1 ; gain supérieur à <span class="metric">15 000 € par mois</span> entre licences économisées et revenus.</li></ul>
         </article>
         <article class="project">
           <h3>LessPass · Sécurisation sans coffre central</h3>
-          <p>Contribution open source et intégration étendue dans le data center entre 2014 et 2016. Génération déterministe des mots de passe sans stockage des secrets ni base centrale à synchroniser et protéger.</p>
+          <p style="margin:1mm 0 0">Contribution open source (2014-2016) et intégration étendue dans le data center : génération déterministe des mots de passe, sans base de secrets à synchroniser ni à protéger.</p>
+          
         </article>
       </section>
       <section class="section">
         <h2>Compétences directement mobilisables à la CCLO</h2>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:5mm 10mm">
-          <div>
-            <h3>Architecture &amp; exploitation</h3>
-            <ul><li>Administration multisite et maintien en conditions opérationnelles.</li><li>Migrations d'infrastructures et d'annuaires.</li><li>Virtualisation VMware, sauvegarde Veeam et conteneurisation Docker.</li><li>Indicateurs, analyse de performance et capacité.</li></ul>
-          </div>
-          <div>
-            <h3>Support &amp; transmission</h3>
-            <ul><li>Diagnostic d'incidents complexes et analyse des causes.</li><li>Formation des techniciens et accompagnement des utilisateurs.</li><li>Procédures, automatisation et réduction des gestes manuels.</li><li>Coordination avec prestataires et opérateurs.</li></ul>
-          </div>
-          <div>
-            <h3>Sécurité &amp; continuité</h3>
-            <ul><li>Participation opérationnelle à ISO 27001.</li><li>Gestion des accès et identités Active Directory.</li><li>Culture de la traçabilité, des tests et de la fiabilité.</li><li>Capacité à contribuer aux politiques PCA/PRA.</li></ul>
-          </div>
-          <div>
-            <h3>Service public &amp; territoire</h3>
-            <ul><li>Résident à Lasseube, connaissance du territoire béarnais.</li><li>Permis B et véhicule ; déplacements multisites.</li><li>Disponibilité pour les opérations hors horaires.</li><li>Rigueur scientifique, sens du service et pédagogie.</li></ul>
-          </div>
+        <div class="grid2">
+          <div><h3>Architecture et exploitation</h3><ul><li>Administration multisite et maintien en conditions opérationnelles.</li><li>Migrations d'infrastructures et d'annuaires.</li><li>Virtualisation VMware, sauvegarde Veeam, conteneurs Docker.</li><li>Indicateurs, analyse de performance et de capacité.</li></ul></div>
+          <div><h3>Support et transmission</h3><ul><li>Incidents complexes et analyse des causes racines.</li><li>Onboarding des techniciens, accompagnement des utilisateurs.</li><li>Modes opératoires, procédures et automatisation.</li><li>Coordination des prestataires et des opérateurs.</li></ul></div>
+          <div><h3>Sécurité et continuité</h3><ul><li>Contribution opérationnelle à ISO 27001.</li><li>Identités, accès et habilitations Active Directory.</li><li>Culture de la traçabilité, des tests et de la fiabilité.</li><li>Aptitude à contribuer aux PCA et PRA.</li></ul></div>
+          <div><h3>Service public et territoire</h3><ul><li>Résident à Lasseube, ancré dans le Béarn.</li><li>Permis B, véhiculé, déplacements multisites.</li><li>Disponible pour les interventions hors horaires.</li><li>Sapeur-pompier volontaire de 2021 à 2025.</li></ul></div>
         </div>
       </section>
       <section class="section">
-        <h2>Expériences complémentaires</h2>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6mm">
-          <div><h3>Enseignant Éthique &amp; RSE · 2024-2025</h3><p>Eklore-ed School of Management · M1/M2 · environ 140 étudiants. Gouvernance, parties prenantes, innovation responsable, communication éthique et finance durable.</p></div>
-          <div><h3>Qualité &amp; métrologie industrielle · 2004-2009</h3><p>Sanofi, LISI Aerospace et JLG France. Contrôle, étalonnage, non-conformités, statistiques, programmation MMT et automatisation VBA.</p></div>
-        </div>
+        <h2>Automatisation et IA</h2>
+        <ul>
+          <li>De Coaxis à aujourd'hui, une même démarche : repérer les irritants, alléger la charge des équipes, automatiser tâches et processus, désormais avec l'appui de l'IA.</li>
+          <li>Développement assisté par IA au quotidien (Gemini, Claude, ChatGPT, DeepSeek, GLM) ; formations au prompt engineering, dont le MOOC Vision IA (2025).</li>
+        </ul>
+      </section>
+      <section class="section">
+        <h2>Expérience complémentaire</h2>
+        <p style="margin:0"><strong>Qualité et métrologie industrielle · 2003-2009</strong> · ICMCB-CNRS, Sanofi, LISI Aerospace, JLG France : contrôle, étalonnage, non-conformités, statistiques, programmation MMT et automatisation VBA.</p>
       </section>
       <section class="section">
         <h2>Liens professionnels</h2>
-        <p><strong>GitHub :</strong> <a href="https://github.com/sctfic">github.com/sctfic</a> · <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/alban-lopez-58bb0a31/">linkedin.com/in/alban-lopez-58bb0a31</a></p>
+        <p style="margin:0"><strong>GitHub :</strong> <a href="https://github.com/sctfic">github.com/sctfic</a> · <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/alban-lopez-58bb0a31/">linkedin.com/in/alban-lopez-58bb0a31</a></p>
       </section>
     </div>
     <div class="footer">CV ciblé · CCLO · Offre O064260904000649 · 2/2</div>
